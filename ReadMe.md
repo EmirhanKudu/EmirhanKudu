@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Merhaba ! Ben Emirhan Kudu. 23 yaşındayım Bilgisayar mühendisliği<br>son sınıf öğrencisiyim. Şu an aktif olarak Java dilinde Spring Boot<br>teknolojisini de kullanarak uygulamalar geliştiriyorum. Özellikle Web<br>backend alanında çalışmalarımı sürdürüyorum. Bu bağlamda HTML &<br>CSS , Javascript , Bootstrap gibi teknolojilere de hakimim. Yazılım<br>geliştirme sürecinde deneyim kazandığım teknolojiler arasında Python,<br>Flask , C ,  SQL gibi teknolojiler de bulunuyor.</p>
+<p align="left">Merhaba ! Ben Emirhan Kudu. 23 yaşındayım Bilgisayar mühendisliği<br>son sınıf öğrencisiyim. Şu an aktif olarak Java dilinde Spring Boot<br>teknolojisini de kullanarak uygulamalar geliştiriyorum. Özellikle Web<br>backend alanında çalışmalarımı sürdürüyorum. Bu bağlamda backend'de kullandığım teknolojilerin yanı sıra frontend kısmında ise HTML & CSS , Javascript , Bootstrap gibi teknolojilere de hakimim. Yazılım geliştirme sürecinde deneyim kazandığım teknolojiler arasında Python,<br>Flask , C ,  SQL gibi teknolojiler de bulunuyor.</p>
 
 ###
 
