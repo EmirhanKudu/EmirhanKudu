@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
+
+###
+
 <p align="left">Merhaba ! Ben Emirhan Kudu. 23 yaşındayım Bilgisayar mühendisliği<br>son sınıf öğrencisiyim. Şu an aktif olarak Java dilinde Spring Boot<br>teknolojisini de kullanarak uygulamalar geliştiriyorum. Özellikle Web<br>backend alanında çalışmalarımı sürdürüyorum. Bu bağlamda HTML &<br>CSS , Javascript , Bootstrap gibi teknolojilere de hakimim. Yazılım<br>geliştirme sürecinde deneyim kazandığım teknolojiler arasında Python,<br>Flask , C ,  SQL gibi teknolojiler de bulunuyor.</p>
 
 ###
@@ -44,14 +50,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmirhanKudu/EmirhanKudu/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmirhanKudu/EmirhanKudu/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EmirhanKudu/EmirhanKudu/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
